@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+name: Python Programming 2022
+description: This is the course website for Python Programming 2022. Brought to you by OpenKnowledgeShare.
+url: "https://rajusaladi.github.io/PythonProgramming2022"
+markdown: GFM
+highlighter: rogue
