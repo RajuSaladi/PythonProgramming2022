@@ -3,3 +3,5 @@ description: This is the course website for Python Programming 2022. Brought to 
 url: "https://rajusaladi.github.io/PythonProgramming2022"
 markdown: GFM
 highlighter: rogue
+
+theme: jekyll-theme-cayman
