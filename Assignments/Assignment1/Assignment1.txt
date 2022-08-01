@@ -1,0 +1,8 @@
+1. Write a Program to get sum of the list [20, 50, 100, -10]
+2. write a program to count the number of even and odd numbers in the list [1, 5, 2, 9, 16, 21, 50]
+	Hint: Odd numbers give remainder 1 when divided by 2
+		  Even numbers give remainder 0 when divided by 2
+3. Seperate the numbers and strings in the list [10, 20, 'python', '10000', 'program', 300] and save them in two different lists.
+4. Marks of students in class are stored in the list [22, 65, 40, 99, 100, 50, 78, 35].
+	a) Write a Program to print the index of the items in that list that are greater than 35.
+	b) Write a Program to store the marks that are greater than 35 in one list and lessthan 35 in another list
