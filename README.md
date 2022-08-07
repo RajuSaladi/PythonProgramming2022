@@ -26,7 +26,7 @@ Please feel free to post your questions or involve in discussions in the course 
 | 3     |[Sets](https://youtu.be/YBQGiTaduJA) | Using Sets in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
 | 4     |[Loops in Python](https://www.youtube.com/watch?v=WdGeTR_A6zM) | While Loop, For Loop| [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
 | 5     |[Tuples and Dictionaries](https://www.youtube.com/watch?v=CXeNibDJMr8) | Tuples, Difference between list and tuple, Dictionaries | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 6     |[User Defined Functions](https://www.youtube.com/watch?v=rsBfe4yP1AM) | User Defined functions in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
+| 6     |[User Defined Functions](https://youtu.be/SVyUPogl3lI) | User Defined functions in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
 | 7     |[Break and Continue](https://youtu.be/YRCV7N4OLXM) | Break and Continue in Loops | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
 | 8     |[Error Handling in Python](https://youtu.be/9hKFXo6lsTg) | Types of Errors, How to Handle them using Try and Except | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
 | 9     |[List Comprehension](https://youtu.be/9hKFXo6lsTg) | If - for or if else for in single line | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
@@ -38,5 +38,5 @@ Please feel free to post your questions or involve in discussions in the course 
 
 | S.No | Problems  | Solution | Video
 |:-----| :-----| :-----| :-----|
-|1 | [Assignment_1](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/Assignment1.txt) | [Notebook](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/solutions_to_assignment1.ipynb) | [Solving Assignment 1] (https://youtu.be/AGNbvs1DI4c) |
-|2 | Assignmnet_2 (Not yet Uploaded) | Not yet Uploaded | Not yet Uploaded |
+|1 | [Assignment_1](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/Questions1.txt) | [Notebook](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/solutions_to_assignment1.ipynb) | [Solving Assignment 1] (https://youtu.be/AGNbvs1DI4c) |
+|2 | [Assignmnet_2] (https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment2/Questions2.txt) | Not yet Uploaded | Not yet Uploaded |

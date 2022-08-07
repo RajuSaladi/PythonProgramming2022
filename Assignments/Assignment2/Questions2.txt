@@ -1,0 +1,27 @@
+1. Write a program to store the following data in dictionaries
+    * Euqipment Name - Brand - Watt
+    * Fan - Havells - 200 Watts
+    * Tubelight - Crompton - 100 Watts
+    * Stove - Prestige - None
+    * Refridgerator - LG - 750 Watts
+    * Washing Machine - Bosch - 1000 Watts
+    * Dish Washer - Bosch - 1200 Watts
+
+    Hint: Dictonary can be accesed by the quipment name i.e., a['Fan'] = ['Havells', 200]
+    {'Fan': ['Havells', 200], 'Tubelight': ["Crompton", 100].......}
+
+    a) Print the total sum of watts of equipment in house
+    b) Find the Equipment/s having highest wattage
+    c) Add new equipment 
+        Mixture - Prestige - 350 Watts
+    d) Change Brand of Tubelight to "Phillip" in the dictionary
+
+2. Use the try-except and solve the error while running program.py
+3. Use Map function to compute squareroot of each element in the list [10, 20, 30, 40, 2, 3, 100] and then filter the elemnts having square root value which are greater than 5
+4. Write a Function to add each element in two lists and return the output. Function name should be add_two_lists
+    Hint: if we call
+    input_list1 = [10, 20, 30]
+    input_list2 = [50, 60, 70]
+    add_two_lists(input_list1, input_list2) should return [60, 80, 100]
+    b) The Program should handle the error when different size of input_lists are given in above function
+        Hint: if   input_list1 = [10, 20, 30], input_list2 =  [50], Then it would give error. The function should handle this kind of error.
