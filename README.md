@@ -21,18 +21,18 @@ Please feel free to post your questions or involve in discussions in the course 
 ### Fundamentals and Building Blocks of Python Programming
 | S.NO        | Video           | Description  | Code/Notes
 | ------------- |:-------------|:-----| :-----|
-| 1     |[Strings, Numbers and Math Functions](https://youtu.be/LwikiZHWg-E) |  Print function, String Operations, Arithmetic Operations, Math Library, Error debugging | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) | 
-| 2     |[Conditional Statements and Lists](https://www.youtube.com/watch?v=FAjbHQTxVA4) | Type function to know the type of variable, Conditional Statements - if else-if else, Lists and how to use it | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 3     |[Sets](https://youtu.be/YBQGiTaduJA) | Using Sets in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 4     |[Loops in Python](https://www.youtube.com/watch?v=WdGeTR_A6zM) | While Loop, For Loop| [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 5     |[Tuples and Dictionaries](https://www.youtube.com/watch?v=CXeNibDJMr8) | Tuples, Difference between list and tuple, Dictionaries | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 6     |[User Defined Functions](https://youtu.be/SVyUPogl3lI) | User Defined functions in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 7     |[Break and Continue](https://youtu.be/YRCV7N4OLXM) | Break and Continue in Loops | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 8     |[Error Handling in Python](https://youtu.be/9hKFXo6lsTg) | Types of Errors, How to Handle them using Try and Except | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 9     |[List Comprehension](https://youtu.be/9hKFXo6lsTg) | If - for or if else for in single line | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
-| 10     |[Map Filter and Reduce](https://youtu.be/o_nHlhSm2Do) | Map, Lambda Function, Filter and Reduce | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc?usp=sharing) |
+| 1     |[Strings, Numbers and Math Functions](https://youtu.be/LwikiZHWg-E) |  Print function, String Operations, Arithmetic Operations, Math Library, Error debugging | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=7jILA_V3TP1F) | 
+| 2     |[Conditional Statements and Lists](https://www.youtube.com/watch?v=FAjbHQTxVA4) | Type function to know the type of variable, Conditional Statements - if else-if else, Lists and how to use it | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=03QI1bFabEsM) |
+| 3     |[Sets](https://youtu.be/YBQGiTaduJA) | Using Sets in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=wqNT87D3msPQ) |
+| 4     |[Loops in Python](https://www.youtube.com/watch?v=WdGeTR_A6zM) | While Loop, For Loop| [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=1zeeT7f6kBPw) |
+| 5     |[Tuples and Dictionaries](https://www.youtube.com/watch?v=CXeNibDJMr8) | Tuples, Difference between list and tuple, Dictionaries | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=E83GeNKfsl0l) |
+| 6     |[User Defined Functions](https://youtu.be/SVyUPogl3lI) | User Defined functions in Python | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=vf0AGFcX3R1d&line=1&uniqifier=1) |
+| 7     |[Break and Continue](https://youtu.be/YRCV7N4OLXM) | Break and Continue in Loops | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=9LxBALaxci36) |
+| 8     |[Error Handling in Python](https://youtu.be/9hKFXo6lsTg) | Types of Errors, How to Handle them using Try and Except | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=Jf3yj4kCgwdm) |
+| 9     |[List Comprehension](https://youtu.be/9hKFXo6lsTg) | If - for or if else for in single line | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=lmr9AHDAbw3R) |
+| 10     |[Map Filter and Reduce](https://youtu.be/o_nHlhSm2Do) | Map, Lambda Function, Filter and Reduce | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=zGOGSJ7tkmAl&line=1&uniqifier=1) |
 | 11     |[Capturing User Inputs](https://youtu.be/GiNnN3ZZ-VQ) | Capturing single or multiple User input from terminal and use them | [single_user_input.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/InputFunctions/single_user_input.py) [multiple_user_inputs.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/InputFunctions/multiple_user_inputs.py)|
-
+| 12    | [Accessing Files and Folders](https://youtu.be/GsgmdIjxR2M) | OS Library abd Glob | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=_VCsU_uIfNlV&line=1&uniqifier=1) |
 
 ## Assignment
 
