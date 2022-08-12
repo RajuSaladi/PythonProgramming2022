@@ -38,5 +38,5 @@ Please feel free to post your questions or involve in discussions in the course 
 
 | S.No | Problems  | Solution | Video
 |:-----| :-----| :-----| :-----|
-|1 | [Assignment_1](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/Questions1.txt) | [Notebook](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/solutions_to_assignment1.ipynb) | [Solving Assignment 1] (https://youtu.be/AGNbvs1DI4c) |
-|2 | [Assignmnet_2](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment2/Questions2.txt) | Not yet Uploaded | Not yet Uploaded |
+|1 | [Assignment_1](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/Questions1.txt) | [Solution_1](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment1/solutions_to_assignment1.ipynb) | [Solving Assignment 1](https://youtu.be/AGNbvs1DI4c) |
+|2 | [Assignment_2](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment2/Questions2.txt) | [Solution_2](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Assignments/Assignment2/solutions_to_assignment2.ipynb) | [Solving Assignment 2](https://youtu.be/xGsUJ8QbdKU) |
