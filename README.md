@@ -1,6 +1,8 @@
 # PythonProgramming2022
 Lets use this code repository for Python Programming 2022 course. This would contain Codes, Notes, Asssignments and other artifacts related to this course
 
+Our Course Website: [PythonProgramming2022](https://rajusaladi.github.io/PythonProgramming2022/)
+
 Recorded videos will be available in our [OpenKnowledgeShare](https://www.youtube.com/c/OpenKnowledgeShare) youtube channel grouped in playlist [PythonProgramming2022](https://www.youtube.com/playlist?list=PLn5PAhxpfD4s64Pjasm4apZOVijlkFyV-)
 
 For more updates, Please join our Telegram Channel: [OpenKnowledgeShare](https://t.me/openknowledgeshare)
@@ -32,7 +34,16 @@ Please feel free to post your questions or involve in discussions in the course 
 | 9     |[List Comprehension](https://youtu.be/9hKFXo6lsTg) | If - for or if else for in single line | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=lmr9AHDAbw3R) |
 | 10     |[Map Filter and Reduce](https://youtu.be/o_nHlhSm2Do) | Map, Lambda Function, Filter and Reduce | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=zGOGSJ7tkmAl&line=1&uniqifier=1) |
 | 11     |[Capturing User Inputs](https://youtu.be/GiNnN3ZZ-VQ) | Capturing single or multiple User input from terminal and use them | [single_user_input.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/InputFunctions/single_user_input.py) [multiple_user_inputs.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/InputFunctions/multiple_user_inputs.py)|
-| 12    | [Accessing Files and Folders](https://youtu.be/GsgmdIjxR2M) | OS Library abd Glob | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=_VCsU_uIfNlV&line=1&uniqifier=1) |
+| 12    | [Accessing Files and Folders](https://youtu.be/GsgmdIjxR2M) | OS Library and Glob | [Colab Link](https://colab.research.google.com/drive/1BNSi-hoLMODI_0QnQBLAjG8udHgIIMDc#scrollTo=_VCsU_uIfNlV&line=1&uniqifier=1) |
+| 13    | [Data Handling in Text Files](https://youtu.be/qJZCLtmD11Q) | Read, Write and appending Text Files in Python | [read_text_file.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/text_files/read_text_file.py)
+[write_data_to_text.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/text_files/write_data_to_text.py)
+[append_text_file.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/text_files/append_text_file.py) |
+| 14    | [Data Handling in JSON Files](https://youtu.be/qMnyc1wxnb8) | Read, Write and appending Text Files in Python | [read_json_file.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/json_files/read_json_file.py)
+[write_json_file.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/json_files/write_json_file.py) |
+| 15    | [Data Pickling](https://youtu.be/8iBVNfDniwA) | Read, Write and appending Text Files in Python |
+[read_pickle_file.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/pickle_files/read_pickle_file.py)
+[write_to_pickle.py](https://github.com/RajuSaladi/PythonProgramming2022/blob/main/Code/FileContent/pickle_files/write_to_pickle.py) |
+
 
 ## Assignment
 
